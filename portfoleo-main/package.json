@@ -1,0 +1,20 @@
+{
+  "name": "portfoleo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx concurrently \"cd backend && npm run start:dev\" \"cd frontend && npm run dev\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardomleitao/portfoleo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardomleitao/portfoleo/issues"
+  },
+  "homepage": "https://github.com/leonardomleitao/portfoleo#readme",
+  "description": ""
+}
